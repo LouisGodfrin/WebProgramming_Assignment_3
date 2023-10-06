@@ -1,0 +1,52 @@
+
+#home
+{
+    background-color: rgb(252, 216, 9);
+}
+
+#navbar
+{
+    background-color: rgb(245, 212, 22);
+}
+
+.navbar-nav
+{
+    color:rgb(1, 1, 1);
+}
+
+#carousel-item-1
+{
+    color:rgb(253, 215, 1);
+}
+#carousel-item-2
+{
+    color: rgb(0, 242, 255);
+}
+
+#carousel-item-3
+{
+    color: rgb(250, 50, 0);
+}
+#carousel-item-4
+{
+    color: rgb(255, 255, 255);
+}
+
+#carouselTestimonial
+{
+    background-color: rgb(233, 237, 17);
+}
+
+#Bouton-player
+{
+    background-color: rgb(240, 182, 7);
+}
+
+#subscribe
+{
+    background-color: rgb(251, 216, 14);
+}
+
+
+
+
